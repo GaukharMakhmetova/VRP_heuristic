@@ -8,7 +8,7 @@ Tested it with multiple cases.
 Drawn solutions.
 
 File2 
-Created a Tabu Search algorithm for the QAP or the VRP(Harder).
+Created a Tabu Search algorithm for the VRP.
 Tested it with multiple examples.
 Small examples to compare with optimal solutions were presented.
 Large examples to test speed.
